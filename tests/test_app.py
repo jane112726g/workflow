@@ -1,5 +1,5 @@
 import pytest
-from app.app import dedupe, calculate_sum
+from app import dedupe, calculate_sum
 
 # 测试去重功能
 def test_dedupe():
